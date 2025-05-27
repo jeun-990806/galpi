@@ -5,3 +5,4 @@ ocr_service/node_modules/__pycache__/
 # web_backend
 web_backend/uploads/
 web_backend/node_modules/
+web_backend/.env
