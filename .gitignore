@@ -1,6 +1,6 @@
 # ocr_service
 ocr_service/__pycache__/
-ocr_service/node_modules/__pycache__/
+ocr_service/modules/__pycache__/
 
 # web_backend
 web_backend/uploads/
